@@ -1,0 +1,15 @@
+{
+  "name": "strapi-strapi-repro-15848",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "turbo build"
+  },
+  "devDependencies": {
+    "turbo": "1.8.1"
+  },
+  "packageManager": "yarn@3.4.1"
+}
