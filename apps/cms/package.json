@@ -10,9 +10,9 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.6.1",
-    "@strapi/plugin-users-permissions": "4.6.1",
-    "@strapi/strapi": "4.6.1",
+    "@strapi/plugin-i18n": "0.0.0-9b5c6cf2e3db7f6a0227f25928c2dddcda9829f4",
+    "@strapi/plugin-users-permissions": "0.0.0-9b5c6cf2e3db7f6a0227f25928c2dddcda9829f4",
+    "@strapi/strapi": "0.0.0-9b5c6cf2e3db7f6a0227f25928c2dddcda9829f4",
     "better-sqlite3": "8.1.0"
   },
   "author": {
